@@ -1,0 +1,14 @@
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\bin\Debug\net8.0\Lab1POO.exe
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\bin\Debug\net8.0\Lab1POO.deps.json
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\bin\Debug\net8.0\Lab1POO.runtimeconfig.json
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\bin\Debug\net8.0\Lab1POO.dll
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\bin\Debug\net8.0\Lab1POO.pdb
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.AssemblyInfoInputs.cache
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.AssemblyInfo.cs
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.csproj.CoreCompileInputs.cache
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.dll
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\refint\Lab1POO.dll
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.pdb
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\Lab1POO.genruntimeconfig.cache
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Tarea1\Lab1POO\obj\Debug\net8.0\ref\Lab1POO.dll
