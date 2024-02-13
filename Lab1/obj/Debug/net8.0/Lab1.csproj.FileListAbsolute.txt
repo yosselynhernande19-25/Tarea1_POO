@@ -1,0 +1,14 @@
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\bin\Debug\net8.0\Lab1.exe
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\bin\Debug\net8.0\Lab1.deps.json
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\bin\Debug\net8.0\Lab1.dll
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\bin\Debug\net8.0\Lab1.pdb
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.dll
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.pdb
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+E:\ASIGNATURAS DE 2º  AÑO 2024 TÈC. EN DESARROLLO DE SOFTWARE\Programaciòn Orientada a Objetos\Lab1POO\Lab1\obj\Debug\net8.0\ref\Lab1.dll
